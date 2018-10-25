@@ -3,7 +3,7 @@
     "description": "dtc's",
     "minimum-stability": "dev",
     "homepage":"https://github.com/mli-Scofield/dtc-tools",
-    "license": "DTC",
+    "license": "proprietary",
     "authors": [
         {
             "name": "丁廷宠",
