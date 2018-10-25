@@ -1,0 +1,17 @@
+{
+    "name": "dtc/tools",
+    "description": "dtc's tools",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "丁廷宠",
+            "email": "413778746@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DTC\\": "src/"
+        }
+    }
+}
